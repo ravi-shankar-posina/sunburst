@@ -1,0 +1,91 @@
+﻿Master Data,Master Data Governance,Material Master,1%
+Master Data,Master Data Governance,Customer Master,1%
+Master Data,Master Data Syndication,Material Master,1%
+Master Data,Master Data Syndication,Customer Master,1%
+Master Data,Master Data Syndication,Vendor Master,1%
+Plan,Demand Planning,Alternative UOM,1%
+Plan,Demand Planning,Product Location,1%
+Plan,Demand Planning,Sales Order,1%
+Plan,Supply Planning,BOM,1%
+Plan,Supply Planning,Inventory,1%
+Plan,Supply Planning,Planned Order,1%
+Plan,Supply Planning,Production Order,1%
+Plan,Supply Planning,Purchase Order,1%
+Plan,Supply Planning,Purchase Requistion,1%
+Plan,Supply Planning,Routing,1%
+Plan,Supply Planning,Sales Order,1%
+Plan,Supply Planning,Source List,1%
+Plan,Supply Planning,Stock Req List,1%
+Plan,Supply Planning,Stock Transfer Order,1%
+Plan,Supply Planning,Workcenter,1%
+Source,Supplier Collobration,ASN,1%
+Source,Supplier Collobration,Consignment Withdrawl,1%
+Source,Supplier Collobration,Inventory,1%
+Source,Supplier Collobration,Material Consumption Confirmation,1%
+Source,Supplier Collobration,NCR,1%
+Source,Supplier Collobration,Outbound Audit,1%
+Source,Supplier Collobration,Outbound CAPA,1%
+Source,Supplier Collobration,Purchase Info Record,1%
+Source,Supplier Collobration,Purchase Order,1%
+Source,Supplier Collobration,Purchase Order GR,1%
+Source,Supplier Collobration,Purchase Requistion,1%
+Source,Supplier Collobration,Replinishment Order,1%
+Source,Supplier Collobration,Source List,1%
+Source,Vendor Payments,Goods Receipts,1%
+Make,Mfg Execution ,Production Order,1%
+Make,Mfg Execution ,Batch Master,1%
+Make,Mfg Execution ,Batch Inventory,1%
+Make,Mfg Execution ,Production Order GI,1%
+Make,Mfg Execution ,Production Order GR,1%
+Make,Labelling ,Production Order,1%
+Make,Labelling ,Batch Characteristics,1%
+Make,IFU,Batch Master,1%
+Make,BOM Mexico Customs,Bill of Material,1%
+Quality,Lab Inspection,Inspection Lot,1%
+Quality,Lab Inspection,Production Order,1%
+Quality,Lab Inspection,Inspection Results,1%
+Quality,NC/CAPA,Quality Notification,1%
+Quality,Batch Traceability,Batch Master,1%
+Deliver,Outbound Delivery,Batch Master,1%
+Deliver,Outbound Delivery,ASN,1%
+Deliver,Outbound Delivery,Cusotmer Master,1%
+Deliver,Outbound Delivery,RFID BOM,1%
+Deliver,Outbound Delivery,Consignment inventory,1%
+Deliver,Outbound Delivery,Material Master,1%
+Deliver,Outbound Delivery,Return Delivery,1%
+Deliver,Outbound Delivery,Outbound orders ,1%
+Deliver,Outbound Delivery,Order Confirmation,1%
+Deliver,Outbound Delivery,Inbound RAD,1%
+Deliver,Outbound Delivery,GR/IR,1%
+Deliver,Inbound Delivery,"Outbound GR, IR",1%
+Deliver,Inbound Delivery,Inbound ASN,1%
+Deliver,Invoice,Invoice,1%
+Deliver,EDI,WIP,1%
+Commercial,Commercial Process - TBD,Material Master,1%
+Commercial,Commercial Process - TBD,Customer Master,1%
+Commercial,Commercial Process - TBD,Material Hierarchy,1%
+Commercial,Commercial Process - TBD,Bill of Material,1%
+Commercial,Commercial Process - TBD,Pricing,1%
+Commercial,Commercial Process - TBD,Sales Rep,1%
+Commercial,Commercial Process - TBD,Inventory,1%
+Commercial,Commercial Process - TBD,Consignment,1%
+Commercial,Commercial Process - TBD,Orthokit,1%
+Commercial,Commercial Process - TBD,Loaner,1%
+Commercial,Commercial Process - TBD,Invoiced Sales,1%
+Commercial,Commercial Process - TBD,Open Sales Orders,1%
+Commercial,Commercial Process - TBD,Customer Hierarchy,1%
+Commercial,Commercial Process - TBD,Customer Reference,1%
+Commercial,Commercial Process - TBD,Customer Relation,1%
+Commercial,Commercial Process - TBD,Material Master Alt UOM,1%
+Commercial,Commercial Process - TBD,List Prices,1%
+Commercial,Commercial Process - TBD,InterCompany Prices,1%
+Commercial,Commercial Process - TBD,Contract Pricing,1%
+Commercial,Commercial Process - TBD,Listing & Exclusion,1%
+Commercial,Commercial Process - TBD,Tax,1%
+Commercial,Commercial Process - TBD,One Time Offer,1%
+Commercial,Commercial Process - TBD,Invoiced Order Details,1%
+Finance,WIP,WIP,1%
+Finance,WIP,WIP,1%
+Finance,WIP,WIP,1%
+Finance,WIP,WIP,1%
+Finance,WIP,WIP,1%

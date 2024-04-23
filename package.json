@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "plotly.js-dist": "^2.31.1",
+    "xlsx": "^0.18.5"
+  }
+}
